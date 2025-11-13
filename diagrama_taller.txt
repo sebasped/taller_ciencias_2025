@@ -1,0 +1,29 @@
+Diapos
+
+http://julia.dm.uba.ar:8008/zombis_long.html
+
+Las NBs Python
+- Predador-presa
+- SIR
+
+Ivan Muñoz
+Estrategias de control óptimo para contener un brote de Ébola en África Occidental.
+https://web.dm.uba.ar/files/tesis_lic/2020/imunoz.pdf
+
+Paula Adaglio
+Modelado de enfermedades infecciosas a través de ecuaciones diferenciales ordinarias
+https://web.dm.uba.ar/files/tesis_lic/2016/paula_adaglio.pdf
+
+(Algunos) Modelos matemáticos para (algunas) enfermedades contagiosas: transmisión, infección, tratamiento 
+https://web.dm.uba.ar/files/tesis_lic/2015/sebastian_pedersen.pdf
+
+Nicolás Saintier
+Modelado de sistemas sociales complejos
+https://sites.google.com/view/sistemas-sociales-complejos/home
+
+
+
+github
+sebasped
+sebasped@gmail.com
+5847pato
