@@ -1,7 +1,8 @@
 # Entendiendo dinámica de poblaciones
 
 ## Diapos info general
-FALTA LINK
+
++ [Diapos taller](https://sebasped.github.io/taller_ciencias_2025/diapos_Taller_ensenianza_ciencias_2025.pdf).
 
 
 ## Modelos discretos
