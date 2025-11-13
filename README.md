@@ -1,4 +1,4 @@
-# Diagramación del taller
+# Entendiendo dinámica de poblaciones
 
 ## Diapos info general
 FALTA LINK
